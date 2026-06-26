@@ -1,0 +1,6 @@
+- Users can belong to multiple [[Groups|groups]] or to no groups at all
+- Can be assigned an alias that simplifies the user login
+- Users can access AWS through the following:
+	- AWS Management Console (what we use mainly in the course)
+	- AWS CLI
+	- AWS SDK

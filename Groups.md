@@ -1,0 +1,1 @@
+- Groups can only contain users and not other groups
