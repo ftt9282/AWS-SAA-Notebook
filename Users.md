@@ -2,5 +2,5 @@
 - Can be assigned an alias that simplifies the user login
 - Users can access AWS through the following:
 	- AWS Management Console (what we use mainly in the course)
-	- AWS CLI
+	- [[AWS CLI]]
 	- AWS SDK

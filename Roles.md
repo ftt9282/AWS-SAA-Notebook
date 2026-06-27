@@ -1,0 +1,1 @@
+Roles are given to AWS services which allows them to perform actions on the user's behalf. A role can be assigned a [[Policy|policy]] as well, just like it were a user.

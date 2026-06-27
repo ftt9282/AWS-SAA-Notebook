@@ -1,0 +1,1 @@
+AWS CLI, but built within the management console. Makes it so that you can run CLI commands without having to set anything up on your local machine. Base SDK is running Python.
