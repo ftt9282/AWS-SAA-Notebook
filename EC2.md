@@ -36,7 +36,7 @@ EC2 Instances have the following purchasing options:
 - **Dedicated Host**
 	- A physical server with EC2 instance capacity fully dedicated to your use
 - **Dedicated Instance**
-	- Instances run on hardware dedicated to you, but you may share that hardware with other instances int he same account
+	- Instances run on hardware dedicated to you, but you may share that hardware with other instances in the same account
 
 [[Placement Groups]] provide additional control over the EC2 instances that you spin up
 
