@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "7abd05843a0ab135",
+        "id": "2901cb2398f5c4bb",
         "type": "tabs",
         "children": [
           {
-            "id": "c6784d00000e9a7c",
+            "id": "b77018937ed1c85b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC2 User Data.md",
+                "file": "EC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2 User Data"
+              "title": "EC2"
+            }
+          },
+          {
+            "id": "ad1ad9c8a13e08ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EBS Snapshot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EBS Snapshot"
+            }
+          },
+          {
+            "id": "b22869322c376352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AMI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AMI"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,38 +212,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "c6784d00000e9a7c",
+  "active": "b22869322c376352",
   "lastOpenFiles": [
+    "EBS Snapshot.md",
+    "AMI.md",
+    "EBS Volume.md",
     "EC2.md",
+    "Placement Groups.md",
+    "Spot Fleet.md",
+    "Know_For_The_Exam/Spot Fleet Strategies.md",
+    "Know_For_The_Exam/Policy Structure.md",
+    "Know_For_The_Exam/MFA Devices.md",
+    "Know_For_The_Exam/Classic Ports To Know.md",
+    "images/Pasted image 20260629172214.png",
+    "Spot Instances.md",
+    "Security Groups.md",
     "EC2 User Data.md",
-    "IAM.md",
-    "Roles.md",
     "CloudShell.md",
     "AWS CLI.md",
-    "Users.md",
-    "Policy.md",
-    "Multi Factor Authentication.md",
     "Groups.md",
-    "Know_For_The_Exam/MFA Devices.md",
+    "IAM.md",
+    "images/Pasted image 20260627174726.png",
+    "images/Pasted image 20260627174032.png",
+    "Users.md",
+    "Roles.md",
+    "Multi Factor Authentication.md",
     "images/Pasted image 20260625160103.png",
     "images/Pasted image 20260625160028.png",
     "Know For The Exam.md",
     "Know_For_The_Exam",
     "images",
-    "Know_For_The_Exam/Policy Structure.md",
     "images/Pasted image 20260625152351.png",
+    "Policy.md",
     "Spread.md",
     "Pasted image 20260313160520.png",
-    "Placement Groups.md",
     "Cluster.md",
     "EC2 Hibernate.md",
     "Elastic Network Interfaces (ENI).md",
     "images/Pasted image 20260313160151.png",
     "images/Pasted image 20260313155733.png",
-    "Partition.md",
     "images/Pasted image 20260313155333.png",
-    "images",
-    "images/Pasted image 20260313155103.png",
-    "Welcome.md"
+    "images"
   ]
 }
