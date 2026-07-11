@@ -1,0 +1,3 @@
+Weighted Routing is similar to multiple value [[Simple Routing]], but instead of [[Route 53]] routing traffic to an EC2 at random, with Weighted Routing you can specify a weight to control the percentage of requests that go to each EC2.
+
+You can assign an EC2 a weight of 0 if you'd like to stop sending traffic to that resource all together. If all records have a weight of 0 then it literally becomes multiple value Simple Routing with every EC2 having an equal chance of being selected.

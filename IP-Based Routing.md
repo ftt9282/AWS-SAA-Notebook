@@ -1,0 +1,1 @@
+Routing is based on the clients IP address. In [[Route 53]] you assign a CIDR block to a record, and then if a user is accessing from one of the CIDR blocks they are routed to the appropriate resource.

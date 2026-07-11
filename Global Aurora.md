@@ -1,0 +1,4 @@
+- 1 Primary Region (read / write)
+- Can have up to 10 secondary regions, and 16 read replicas per secondary region
+- **Typical cross-region replication takes less than 1 second**
+- Promoting another region (for disaster recovery) has a RTO of <1 minute

@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "2901cb2398f5c4bb",
+        "id": "b0f131aa705ad346",
         "type": "tabs",
         "children": [
           {
-            "id": "b22869322c376352",
+            "id": "20d9373bf67b82f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC2.md",
+                "file": "Elastic File System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2"
+              "title": "Elastic File System"
             }
           },
           {
-            "id": "6fa833352584f157",
+            "id": "a6005ee305794b77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EC2 Instance Store.md",
+                "file": "Elastic Beanstalk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2 Instance Store"
+              "title": "Elastic Beanstalk"
+            }
+          },
+          {
+            "id": "d5cd24dec30898c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Objects"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,46 +212,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "6fa833352584f157",
+  "active": "d5cd24dec30898c3",
   "lastOpenFiles": [
-    "EC2 Instance Store.md",
-    "EC2.md",
-    "AMI.md",
-    "EBS Snapshot.md",
+    "Pasted image 20260711005848.png",
+    "S3.md",
+    "Objects.md",
+    "Elastic Beanstalk.md",
+    "Elastic File System.md",
+    "Multi-Value Answer Routing.md",
     "EBS Volume.md",
-    "Placement Groups.md",
-    "Spot Fleet.md",
-    "Know_For_The_Exam/Spot Fleet Strategies.md",
-    "Know_For_The_Exam/Policy Structure.md",
-    "Know_For_The_Exam/MFA Devices.md",
-    "Know_For_The_Exam/Classic Ports To Know.md",
-    "images/Pasted image 20260629172214.png",
-    "Spot Instances.md",
-    "Security Groups.md",
-    "EC2 User Data.md",
-    "CloudShell.md",
-    "AWS CLI.md",
-    "Groups.md",
-    "IAM.md",
-    "images/Pasted image 20260627174726.png",
-    "images/Pasted image 20260627174032.png",
-    "Users.md",
-    "Roles.md",
-    "Multi Factor Authentication.md",
-    "images/Pasted image 20260625160103.png",
-    "images/Pasted image 20260625160028.png",
-    "Know For The Exam.md",
+    "ElastiCache.md",
+    "Auto Scaling Group.md",
+    "Resolver Endpoint.md",
+    "images/Pasted image 20260710140307.png",
+    "Route 53.md",
+    "IP-Based Routing.md",
+    "Geoproximity Routing.md",
+    "images/Pasted image 20260709220121.png",
+    "Geolocation Routing.md",
+    "Failover Routing.md",
+    "Latency Based Routing.md",
+    "Simple Routing.md",
+    "Weighted Routing.md",
+    "images/Pasted image 20260708233024.png",
+    "Know_For_The_Exam/Route 53 Record Types.md",
+    "images/Pasted image 20260708153457.png",
+    "images/Pasted image 20260708160455.png",
+    "images/Pasted image 20260708201404.png",
+    "Aurora.md",
+    "DNS Terminologies.md",
+    "RDS Proxy.md",
+    "Global Aurora.md",
+    "Relational Database Service.md",
+    "Babelfish.md",
+    "Aurora Serverless.md",
+    "images/Pasted image 20260707114258.png",
+    "images/Pasted image 20260707102525.png",
+    "images/Pasted image 20260706141514.png",
+    "images/Pasted image 20260704234103.png",
     "Know_For_The_Exam",
     "images",
-    "images/Pasted image 20260625152351.png",
-    "Policy.md",
-    "Spread.md",
-    "Pasted image 20260313160520.png",
-    "Cluster.md",
-    "EC2 Hibernate.md",
-    "images/Pasted image 20260313160151.png",
-    "images/Pasted image 20260313155733.png",
-    "images/Pasted image 20260313155333.png",
     "images"
   ]
 }

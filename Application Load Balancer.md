@@ -1,0 +1,3 @@
+An Application Load Balancer (ALB) operates at the application layer (Layer 7) of the OSI model to intelligently route, secure, and distribute HTTP/HTTPS traffic across multiple targets, such as EC2 instances, containers, and Lambda functions.
+
+You would never actually do this, but you could use an ALB to forward mobile traffic to a Target Group of EC2 instances, and Desktop traffic to a group of on-prem servers.

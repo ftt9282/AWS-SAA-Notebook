@@ -1,0 +1,3 @@
+![[Pasted image 20260709220121.png]]
+
+Geoproximity Routing in [[Route 53]] allows you to set a **bias** for a geographic region. In the example image above, `us-east-1` has a bias of 50 and `us-west-1` has a bias of 0. Since the bias in `us-east-1` is higher it will pull more traffic from users that happen to be closer to `us-west-1`. If both biases were set to 0, however, the orange line would be split right down the middle.

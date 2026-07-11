@@ -1,0 +1,1 @@
+Babelfish makes the migration from a MS SQL DB to an [[Aurora]] DB incredibly easy. Babelfish allows Aurora PostgreSQL to understand commands targeted for MS SQL Server. It even uses the same MS SQL Server client driver.

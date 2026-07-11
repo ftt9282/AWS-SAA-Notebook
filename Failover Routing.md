@@ -1,0 +1,1 @@
+Health checks are mandatory in order to get this type of routing to work. [[Route 53]] uses health checks to monitor the status of the primary EC2 instance, and if the health checks fail then Route 53 fails over to the secondary instance.

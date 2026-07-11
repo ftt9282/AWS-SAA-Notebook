@@ -1,0 +1,1 @@
+This type of routing makes it possible for [[Route 53]] to route multiple IPs in multiple regions to the same record. This routing can also tie in with health checks, and it will only return values that are deemed healthy.

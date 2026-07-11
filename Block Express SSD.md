@@ -1,0 +1,1 @@
+Good for critical business application with require high IOPS performance, like database workloads. This EBS Volume family is the only one that supports [[EBS Multi-Attach]].

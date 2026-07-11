@@ -1,0 +1,3 @@
+This should not be confused with [[Latency Based Routing]] which sends clients to different parts based on latency. Geolocation Routing is strictly based on user location.
+
+You may have different versions of a website for German or French based users. In that case, you'd want to use [[Route 53]] to route German users to the German domain, and French users to the French domain. You can also set a default route if no match is found for location.
