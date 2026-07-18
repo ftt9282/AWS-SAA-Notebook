@@ -1,0 +1,1 @@
+Versioning is a bucket level setting that is kind of like git for your S3 bucket. Whenever an object in your bucket is modified and saved, a new version will be saved for that object. All of the prior versions are tracked, and it is easy to roll back to previous versions. If you choose to suspend versioning it does not delete previous versions.

@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b0f131aa705ad346",
+        "id": "b5c42f80e3309d79",
         "type": "tabs",
         "children": [
           {
-            "id": "20d9373bf67b82f9",
+            "id": "d61de80383558168",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic File System.md",
+                "file": "S3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elastic File System"
-            }
-          },
-          {
-            "id": "a6005ee305794b77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elastic Beanstalk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elastic Beanstalk"
-            }
-          },
-          {
-            "id": "d5cd24dec30898c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Objects"
+              "title": "S3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,44 +183,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "d5cd24dec30898c3",
+  "active": "d61de80383558168",
   "lastOpenFiles": [
-    "Pasted image 20260711005848.png",
     "S3.md",
-    "Objects.md",
-    "Elastic Beanstalk.md",
-    "Elastic File System.md",
-    "Multi-Value Answer Routing.md",
-    "EBS Volume.md",
-    "ElastiCache.md",
-    "Auto Scaling Group.md",
-    "Resolver Endpoint.md",
-    "images/Pasted image 20260710140307.png",
+    "Requester Pays.md",
+    "S3 Storage Classes.md",
+    "images/Pasted image 20260717141652.png",
+    "images/Pasted image 20260717141827.png",
+    "images/Pasted image 20260717142123.png",
+    "images/Pasted image 20260717141940.png",
+    "S3 Replication.md",
+    "Versioning.md",
     "Route 53.md",
-    "IP-Based Routing.md",
-    "Geoproximity Routing.md",
+    "images/Pasted image 20260716163942.png",
+    "Security Groups.md",
+    "Objects.md",
+    "EC2 Instance Store.md",
+    "images/Pasted image 20260710140307.png",
     "images/Pasted image 20260709220121.png",
-    "Geolocation Routing.md",
-    "Failover Routing.md",
-    "Latency Based Routing.md",
-    "Simple Routing.md",
-    "Weighted Routing.md",
     "images/Pasted image 20260708233024.png",
-    "Know_For_The_Exam/Route 53 Record Types.md",
-    "images/Pasted image 20260708153457.png",
-    "images/Pasted image 20260708160455.png",
     "images/Pasted image 20260708201404.png",
-    "Aurora.md",
-    "DNS Terminologies.md",
-    "RDS Proxy.md",
-    "Global Aurora.md",
+    "images/Pasted image 20260708160455.png",
+    "Weighted Routing.md",
+    "Sticky Sessions.md",
+    "Simple Routing.md",
+    "Server Name Indication.md",
+    "Resolver Endpoint.md",
     "Relational Database Service.md",
-    "Babelfish.md",
-    "Aurora Serverless.md",
-    "images/Pasted image 20260707114258.png",
-    "images/Pasted image 20260707102525.png",
-    "images/Pasted image 20260706141514.png",
-    "images/Pasted image 20260704234103.png",
+    "RDS Read Replicas.md",
+    "RDS Proxy.md",
+    "RDS Multi AZ.md",
+    "Network Load Balancer.md",
+    "Multi-Value Answer Routing.md",
+    "Latency Based Routing.md",
+    "Know_For_The_Exam/Route 53 Record Types.md",
+    "IP-Based Routing.md",
+    "Global Aurora.md",
+    "Geoproximity Routing.md",
+    "Geolocation Routing.md",
     "Know_For_The_Exam",
     "images",
     "images"
